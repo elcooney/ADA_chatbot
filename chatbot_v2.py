@@ -33,7 +33,7 @@ os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 # set folder path(s) for PDFs
 
 
-folder_path = "embedded_resources/"
+folder_path = "resources"
 
 ############################################################
 # define functions
