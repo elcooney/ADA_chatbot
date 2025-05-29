@@ -2,8 +2,6 @@
 
 A user-friendly chatbot application that allows architects, builders, and the general public to ask questions about ADA (Americans with Disabilities Act) requirements and receive accurate, relevant answers based on official documentation.
 
-![ArchitectBot Screenshot](https://via.placeholder.com/800x450.png?text=ArchitectBot+Screenshot)
-
 ## 🌟 Features
 
 - **Intuitive Chat Interface**: Simply type your question about ADA requirements and receive an immediate response
